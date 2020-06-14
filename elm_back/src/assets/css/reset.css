@@ -1,0 +1,33 @@
+﻿a{
+    text-decoration: none;
+}
+img{
+    vertical-align: center;
+    border: none;
+}
+input,textarea{ 
+    border: none;
+    outline: none;
+    -webkit-appearance: none;
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0
+}
+body, ol, ul, dl, li, dt, dd, h1, h2, h3, h4, h5, h6, p, th, td, dl, dd, form,input, textarea,select{
+    margin: 0;
+    padding: 0;
+}
+ol, ul, dl, li, dt, dd {
+    list-style: none
+}
+
+/*清除浮动*/
+.clearfix:after{
+    display:block;
+    clear:both;
+    content:"";
+}
+.clearfix{
+    *zoom: 1;
+}

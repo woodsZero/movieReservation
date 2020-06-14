@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "formidable": "^1.2.2",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.2.3",
+    "path": "^0.12.7",
+    "sd": "0.0.3",
+    "silly-datetime": "^0.1.2"
+  }
+}

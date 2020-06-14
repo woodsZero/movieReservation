@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5ec784edabdc5450a085a491"},"aId":"1590133997613429537","name":"admin","phone":"18339185386","passWord":"1234abcd","prop":"0","ownTime":"2020-05-22 15:53:17"}
+{"_id":{"$oid":"5ec8ef30515f8349fc1bc2fc"},"aId":"1590226736971589337","name":"admin1","phone":"18339185387","passWord":"1234abcd","prop":"1","ownTime":"2020-05-23 17:38:56"}
+{"_id":{"$oid":"5ec8f96c64d2f74404455388"},"aId":"1590229356178972384","name":"admin2","phone":"18339185380","passWord":"1234abcd","prop":"1","ownTime":"2020-05-23 18:22:36"}
+{"_id":{"$oid":"5ed72c59916c25829c72d573"},"aId":"1591159897125587382","name":"common","phone":"1833918530","passWord":"1234abcd","prop":"1","ownTime":"2020-06-03 12:51:37"}
