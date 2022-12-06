@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "mint-ui": "^2.2.13",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
     "swiper": "^5.2.1",
